@@ -44,7 +44,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Half & Half
   - What's New: Minor Improvments
-  -Latest Version: 2.6.3
+  - Latest Version: 2.6.3
   
 - Football Season
   - What's New: Improved Layout
