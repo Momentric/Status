@@ -37,7 +37,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Retro Sunrise
   - What's New: Preformance Improvments
-  - Latest Version: 1.6.0
+  - Latest Version: 1.6.0 (In Review)
   
 - Half & Half
   - What's New: Minor Improvments
