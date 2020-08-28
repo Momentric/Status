@@ -21,9 +21,8 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - Latest Version: 2.1.1
   
 - Steps Focus
-  - What's New: Nothing
-  - What's Planned: Performance Improvments & Maybe Some More Color Options
-  - Latest Version: 1.7
+  - What's New: New Color Option
+  - Latest Version: 2.0.0 (In Review)
   
 - Modern Gradient
   - What's New: 7 More Color Options
