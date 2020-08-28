@@ -6,7 +6,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
 ## Current Status: Busy
 
 ## Roadmap
-1. Update 2 existing designs to fix them and add new features
+1. Update 1 existing design
 2. Release 6 new designs by September 25th
 3. Update all designs to support Versa 3 & Sense by September 25th
 
