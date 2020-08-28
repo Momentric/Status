@@ -57,7 +57,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Texas
   - What's New: Minor Improvments
-  - Latest Version: 1.6.0 (In Review)
+  - Latest Version: 1.6.0
   
 - New York
   - What's New: Ionic Support
