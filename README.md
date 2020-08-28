@@ -6,9 +6,8 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
 ## Current Status: Busy
 
 ## Roadmap
-1. Update 1 existing design
-2. Release 6 new designs by September 25th
-3. Update all designs to support Versa 3 & Sense by September 25th
+1. Release 6 new designs by September 25th
+2. Update all designs to support Versa 3 & Sense by September 25th
 
 ## Latest Versions
 
@@ -37,9 +36,8 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - Latest Version: 1.9.1
   
 - Retro Sunrise
-  - What's New: Nothing
-  - What's Planned: Minor Preformance Improvments
-  - Latest Version: 1.5.0
+  - What's New: Preformance Improvments
+  - Latest Version: 1.6.0
   
 - Half & Half
   - What's New: Minor Improvments
