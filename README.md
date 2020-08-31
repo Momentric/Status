@@ -21,7 +21,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Steps Focus
   - What's New: New Color Option
-  - Latest Version: 2.0.0 (In Review)
+  - Latest Version: 2.0.0
   
 - Modern Gradient
   - What's New: 7 More Color Options
@@ -37,7 +37,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Retro Sunrise
   - What's New: Preformance Improvments
-  - Latest Version: 1.6.0 (In Review)
+  - Latest Version: 1.6.0
   
 - Half & Half
   - What's New: Minor Improvments
