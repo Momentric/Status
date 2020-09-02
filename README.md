@@ -6,7 +6,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
 ## Current Status: Busy
 
 ## Roadmap
-1. Release 6 new designs by September 25th
+1. Release 4 new designs by September 25th
 2. Update all designs to support Versa 3 & Sense by September 25th
 
 ## Latest Versions
@@ -21,7 +21,11 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Steps Focus
   - What's New: New Color Option
-  - Latest Version: 2.0.1 (In Review)
+  - Latest Version: 2.0.1
+  
+- Bold Rings
+  - What's New: Nothing
+  - Latest Version: 1.0.0
   
 - Modern Gradient
   - What's New: 7 More Color Options
@@ -45,6 +49,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Football Season
   - What's New: Improved Layout
+  - What's Planned: Ionic Support
   - Latest Version: 1.1.2
   
 - Election
