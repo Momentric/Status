@@ -78,5 +78,5 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - Latest Version: 2.1.0
   
 - Maine
-  - What's New: Minor Improvments
-  - Latest Version: 1.4.1
+  - What's New: Layout Improvments
+  - Latest Version: 1.4.2
