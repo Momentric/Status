@@ -43,9 +43,9 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - What's New: Minor Improvments
   - Latest Version: 1.9.2
   
-- Retro Sunrise
-  - What's New: Preformance Improvments
-  - Latest Version: 1.6.0
+- Retro Sunset
+  - What's New: Layout Improvments
+  - Latest Version: 1.6.1
   
 - Half & Half
   - What's New: Minor Improvments
