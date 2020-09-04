@@ -49,8 +49,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Football Season
   - What's New: Improved Layout
-  - What's Planned: Ionic Support
-  - Latest Version: 1.1.2
+  - Latest Version: 1.2.0
   
 - Election
   - What's New: Nothing
