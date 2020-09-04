@@ -29,7 +29,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Family Tree
   - What's New: Fixed Layout
-  -Latest Version: 1.1.1
+  - Latest Version: 1.1.1
   
 - Modern Gradient
   - What's New: 7 More Color Options
