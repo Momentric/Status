@@ -13,7 +13,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
 
 - Mountain Rise
   - What's New: Minor Improvments
-  - Latest Version: 3.0.0
+  - Latest Version: 3.0.1
   
 - Waveform 2.0
   - What's New: Fixed Some Things, Improved Layout For Versa Lite Users
