@@ -71,8 +71,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Wisconsin
   - What's New: Improved Design
-  - What's Planned: Ionic Support
-  - Latest Version: 2.0.2
+  - Latest Version: 2.1.0
   
 - Maine
   - What's New: Minor Improvments
