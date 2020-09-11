@@ -16,32 +16,32 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - Latest Version: 3.0.1
   
 - Waveform 2.0
-  - What's New: Fixed Some Things, Improved Layout For Versa Lite Users
-  - Latest Version: 2.1.1
+  - What's New: Updated To Zone Minutes 
+  - Latest Version: 2.2.0
   
 - Steps Focus
   - What's New: New Color Option
   - Latest Version: 2.0.1
   
 - Bold Rings
-  - What's New: Nothing
-  - Latest Version: 1.0.1
+  - What's New: Updated To Zone Minutes
+  - Latest Version: 1.1.0
   
 - Family Tree
   - What's New: Fixed Layout
   - Latest Version: 1.1.1
   
 - Modern Gradient
-  - What's New: 7 More Color Options
-  - Latest Version: 2.0.0
+  - What's New: Updated To Zone Minutes
+  - Latest Version: 2.1.0
   
 - Floating Tiles
   - What's New: Minor Improvments
   - Latest Version: 3.0.1
   
 - Simple Dash
-  - What's New: Minor Improvments
-  - Latest Version: 1.9.2
+  - What's New: Updated To Zone Minutes
+  - Latest Version: 2.0.0
   
 - Retro Sunset
   - What's New: Layout Improvments
