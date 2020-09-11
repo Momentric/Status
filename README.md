@@ -56,8 +56,8 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - Latest Version: 2.6.3
   
 - Football Season
-  - What's New: Improved Layout
-  - Latest Version: 1.2.0
+  - What's New: Fixed Stuff
+  - Latest Version: 1.2.1
   
 - Election
   - What's New: Nothing
