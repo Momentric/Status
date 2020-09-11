@@ -27,6 +27,10 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - What's New: Updated To Zone Minutes
   - Latest Version: 1.1.0
   
+- Faith
+  - What's New: Nothing
+  - Latest Version: 1.0.1
+  
 - Family Tree
   - What's New: Fixed Layout
   - Latest Version: 1.1.1
