@@ -16,8 +16,9 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - Latest Version: 3.0.1
   
 - Waveform 2.0
-  - What's New: Updated To Zone Minutes 
-  - Latest Version: 2.2.0
+  - What's New: Minor Layout Improvments
+  - What's Planned: RHR Display (SpO2 isn't currently possible)
+  - Latest Version: 2.2.1
   
 - Steps Focus
   - What's New: New Color Option
@@ -44,8 +45,8 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - Latest Version: 3.0.1
   
 - Simple Dash
-  - What's New: Updated To Zone Minutes
-  - Latest Version: 2.0.0
+  - What's New: Fixed Blurry Icons
+  - Latest Version: 2.0.1
   
 - Retro Sunset
   - What's New: Layout Improvments
