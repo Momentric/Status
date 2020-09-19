@@ -64,6 +64,11 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - What's New: Nothing
   - Latest Version: 1.0.3
   
+- Arcade
+  - What's New: Nothing
+  - What's Planned: Improved Ionic Support, Progress Bars
+  - Latest Version: 1.0.1
+  
   ### States
   
 - Texas
