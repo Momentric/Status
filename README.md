@@ -16,9 +16,9 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - Latest Version: 3.0.1
   
 - Waveform 2.0
-  - What's New: Fixed Date Display For i18n Users (Pending Review By Fitbit)
+  - What's New: Fixed Date Display For i18n Users
   - What's Planned: RHR Display (SpO2 isn't currently possible)
-  - Latest Version: 2.2.2
+  - Latest Version: 2.2.2 (In Review)
   
 - Steps Focus
   - What's New: New Color Option
@@ -26,7 +26,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Bold Rings
   - What's New: Updated To Zone Minutes
-  - Latest Version: 1.1.1
+  - Latest Version: 1.2.0 (In Review)
   
 - Faith
   - What's New: Nothing
