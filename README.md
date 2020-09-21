@@ -25,7 +25,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - Latest Version: 2.0.1
   
 - Bold Rings
-  - What's New: Updated To Zone Minutes
+  - What's New: We Are Fixing Something
   - Latest Version: 1.2.0 (In Review)
   
 - Faith
