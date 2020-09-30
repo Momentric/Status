@@ -6,10 +6,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
 ## Current Status: Very Busy
 
 ## Roadmap
-1. Update all designs to support Versa 3 & Sense by October 7th
-We have updated 15/21 Designs so far! 
-A bunch of them are in review. 
-Version numbers may not be accurate until updates have been approved for new and old devices.
+We are trying to update all of our designs for the Versa 3 & Sense by October 7th. 15/21 are completed. Version numbers won't be accurate because the updates have to be approved for both new and old devices.
 
 ## Latest Versions
 
