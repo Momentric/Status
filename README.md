@@ -15,9 +15,8 @@ All of our designs now support the Versa 3 & Sense! We still have to add a lot o
   - Latest Version: 3.0.1
   
 - Waveform 2.0
-  - What's New: Fixed Date Display For i18n Users
-  - What's Planned: RHR Display (SpO2 isn't currently possible)
-  - Latest Version: 2.2.2 (In Review)
+  - What's New: Bug Fixes
+  - Latest Version: 2.9.9 (In Review)
   
 - Steps Focus
   - What's New: New Color Option
