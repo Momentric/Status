@@ -3,7 +3,7 @@ Check here for the latest updates on our designs, and find out what's new or in 
 
 You should also check our [news page](https://momentric-9b1d4.web.app/News) for more updates.
 
-## Current Status: Stressed
+## Current Status: Busy
 
 ## Roadmap
 All of our designs now support the Versa 3 & Sense! We still have to add a lot of improvments to the old devices. The version numbers will be updated when the 4.2 builds are approved. We have many new things in store, so stay tuned! Note that some existing designs will get NEW FEATURES!
