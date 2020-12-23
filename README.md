@@ -10,8 +10,8 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
 - 2 New Designs Pending Review
 - 1 New Design In Progress
 
-Possibly Waveform 3.0
-Maybe Build A User Requested Design?
+- Possibly Waveform 3.0
+- Maybe Build A User Requested Design?
 
 ## Latest Versions
 
