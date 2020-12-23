@@ -6,66 +6,72 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
 ## Current Status: Busy
 
 ## Roadmap
-All of our designs now support the Versa 3 & Sense! We still have to add a lot of improvments to the old devices. The version numbers will be updated when the 4.2 builds are approved. We have many new things in store, so stay tuned! Note that some existing designs will get NEW FEATURES!
+2 Updates Pendiing Review
+2 New Designs Pending Review
+1 New Design In Progress
+
+Possibly Waveform 3.0
+Maybe Build A User Requested Design?
 
 ## Latest Versions
 
 - Mountain Rise
   - What's New: Minor Improvments
-  - Latest Version: 3.0.1
+  - Latest Version: 3.1.0
   
 - Waveform 2.0
   - What's New: Bug Fixes
-  - Latest Version: 2.9.9 (In Review)
+  - What's Planned: Adding Feature Requests To A New Clock face, Instead Of Updating This One.
+  - Latest Version: 2.3.0
   
 - Steps Focus
   - What's New: New Color Option
   - Latest Version: 2.0.1
   
 - Bold Rings
-  - What's New: We Are Fixing Something
-  - Latest Version: 1.2.0 (In Review)
+  - What's New: Fix For SDK 5
+  - Latest Version: 1.3.1
   
 - Faith
-  - What's New: Nothing
-  - Latest Version: 1.0.1
+  - What's New: Added Colors!
+  - Latest Version: 1.1.1 (In Review)
   
 - Family Tree
   - What's New: Fixed Layout
-  - Latest Version: 1.1.1
+  - Latest Version: 1.1.9
   
 - Modern Gradient
   - What's New: Updated To Zone Minutes
   - Latest Version: 2.1.1
   
 - Floating Tiles
-  - What's New: Minor Improvments
-  - Latest Version: 3.0.1
+  - What's New:  SDK 5 Support
+  - Latest Version: 3.1.0
   
 - Simple Dash
-  - What's New: Fixed Blurry Icons
-  - Latest Version: 2.0.1
+  - What's New: SDK 5 Support
+  - Latest Version: 2.0.9
   
 - Retro Sunset
-  - What's New: Layout Improvments
-  - Latest Version: 1.6.1
+  - What's New: SDK 5 Support
+  - Latest Version: 1.7.0
   
 - Half & Half
-  - What's New: Minor Improvments
-  - Latest Version: 2.6.3
+  - What's New: SDK 5 Support
+  - Latest Version: 2.7.0
   
 - Football Season
-  - What's New: Fixed Stuff
-  - Latest Version: 1.2.1
+  - What's New: SDK 5 Support
+  - Latest Version: 1.3.0
   
 - Election
-  - What's New: Nothing
-  - Latest Version: 1.0.3
+  - What's New: SDK 5 Support
+  - Latest Version: 1.0.0
   
 - Arcade
-  - What's New: Nothing
-  - What's Planned: Improved Ionic Support, Progress Bars
-  - Latest Version: 1.0.1
+  - What's New: SDK 5 Support
+  - What's Planned: Improved Ionic Support
+  - Latest Version: 1.1.0
   
   ### States
   
