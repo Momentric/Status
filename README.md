@@ -6,8 +6,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
 ## Current Status: Busy
 
 ## Roadmap
-- 2 Updates Pendiing Review
-- 2 New Designs Pending Review
+- 1 New Design Later This Week
 - 1 New Design In Progress
 
 - Possibly Waveform 3.0
