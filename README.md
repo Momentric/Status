@@ -6,10 +6,10 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
 ## Current Status: Busy
 
 ## Roadmap
-- 1 New Design Later This Week
-- 1 New Design In Progress
-
-- Possibly Waveform 3.0
+- 1 New design
+- Update 3 Existing Designs For 4.2 Support
+- Minor Fixes & Feature Requests
+- Waveform+
 - Maybe Build A User Requested Design?
 
 ## Latest Versions
@@ -20,7 +20,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Waveform 2.0
   - What's New: Bug Fixes
-  - What's Planned: Adding Feature Requests To A New Clock face, Instead Of Updating This One.
+  - What's Planned: New Release.
   - Latest Version: 2.3.0
   
 - Steps Focus
