@@ -3,14 +3,15 @@ Check here for the latest updates on our designs, and find out what's new or in 
 
 You should also check our [news page](https://momentric-9b1d4.web.app/News) for more updates.
 
-## Current Status: Busy
+## Current Status: Very Busy
 
 ## Roadmap
-- 1 New design
-- Update 3 Existing Designs For 4.2 Support
-- Minor Fixes & Feature Requests
+- Update 3 Existing Designs For 4.2 Support *Important
+- Minor Fixes & Feature Requests *Important
+- Backend Improvements & Optimization *Important
 - Waveform+
-- Maybe Build A User Requested Design?
+- User Requests
+- Holiday Designs?
 
 ## Latest Versions
 
@@ -20,7 +21,6 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Waveform 2.0
   - What's New: Bug Fixes
-  - What's Planned: New Release.
   - Latest Version: 2.3.0
   
 - Steps Focus
@@ -33,7 +33,7 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   
 - Faith
   - What's New: Added Colors!
-  - Latest Version: 1.1.1 (In Review)
+  - Latest Version: 1.1.1
   
 - Family Tree
   - What's New: Fixed Layout
@@ -71,6 +71,15 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - What's New: SDK 5 Support
   - What's Planned: Improved Ionic Support
   - Latest Version: 1.1.0
+
+- Sphere
+  - What's New: Inital Release
+  - Latest Version: 1.0.0
+
+- Radiate
+  - What's New: Inital Release
+  - What's Planned: 4.2 Support
+  - Latest Version: 1.0.0
   
   ### States
   
