@@ -3,7 +3,7 @@ Check here for the latest updates on our designs, and find out what's new or in 
 
 You should also check our [news page](https://momentric-9b1d4.web.app/News) for more updates.
 
-## Current Status: Very Busy
+## Current Status: Fixing Things
 
 ## Roadmap
 - Update 3 Existing Designs For 4.2 Support *Important
