@@ -73,11 +73,11 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
   - Latest Version: 1.1.0
 
 - Sphere
-  - What's New: Inital Release
+  - What's New: Initial Release
   - Latest Version: 1.0.0
 
 - Radiate
-  - What's New: Inital Release
+  - What's New: Initial Release
   - What's Planned: 4.2 Support
   - Latest Version: 1.0.0
   
