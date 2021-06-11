@@ -6,12 +6,9 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
 ## Current Status: Fixing Things
 
 ## Roadmap
-- Update 3 Existing Designs For 4.2 Support *Important
 - Minor Fixes & Feature Requests *Important
-- Backend Improvements & Optimization *Important
-- Waveform+
-- User Requests
-- Holiday Designs?
+- 1 Design Request
+- Holiday Designs
 
 ## Latest Versions
 
@@ -78,7 +75,6 @@ You should also check our [news page](https://momentric-9b1d4.web.app/News) for 
 
 - Radiate
   - What's New: Initial Release
-  - What's Planned: 4.2 Support
   - Latest Version: 1.0.0
   
   ### States
